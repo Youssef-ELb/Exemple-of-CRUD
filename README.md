@@ -1,0 +1,2 @@
+# Exemple-of-CRUD
+Implementation of CRUD operations in PHP for managing data. This GitHub repository showcases Create, Read, Update, and Delete functionalities, providing a foundation for building dynamic web applications. The code demonstrates PHP's ability to interact with databases, allowing users to create, view, update, and delete records efficiently. It serves as a valuable resource for understanding PHP's capabilities in data management.
